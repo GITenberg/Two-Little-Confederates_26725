@@ -14,6 +14,8 @@ creator:
 description: The first of these two novels presents a boy's-eye view of the Civil
   War from the southern side. In the second a spunky little girl reunites a fragmented
   family after the Civil War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26725#Two-Little-Confederates
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-09-29'
 gutenberg_type: Text
